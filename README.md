@@ -1,6 +1,8 @@
-# justthelyrics
+# The Lyrics
 
-Just the song lyrics and litte story of the albums
+Just the song lyrics and litte story of the albums. In Flutter
+
+
 
 ## Getting Started
 
