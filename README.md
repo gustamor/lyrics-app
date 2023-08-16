@@ -1,8 +1,13 @@
 # The Lyrics
 
-Just the song lyrics and litte story of the albums. In Flutter
+Just the song lyrics and litte story of the albums. 
 
 
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/framework-flutter-blue">
+<br />
+<img alt="Static Badge" src="https://img.shields.io/badge/language-dart-blue">
+</p>
 
 ## Getting Started
 
